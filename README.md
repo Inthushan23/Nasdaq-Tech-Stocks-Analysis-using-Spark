@@ -39,6 +39,10 @@ Stock data is retrieved using the **yfinance** Python library. The selected comp
 
 These companies were chosen for their leadership in their respective sectors, high market capitalizations, and innovative nature. They represent key players in electronics, software, cloud services, and e-commerce, and are seen as strong investment opportunities due to their long-term growth potential.
 
+## 👥 Contributors
+- Inthushan Suthakaran (https://github.com/Inthushan23)
+- Sarah SHAHIN (https://github.com/sarahblabla) 
+
 ## Important Disclaimer
 This project is intended for **educational purposes only**. The analysis and visualizations provided here **do not constitute financial advice**. Any real investment decisions should be supported by thorough personal research and consultation with licensed financial professionals.
 
